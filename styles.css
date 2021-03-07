@@ -184,7 +184,7 @@ ul {
 #content {
   display: flex;
   background: hsl(185, 75%, 39%);
-  height: 700px;
+  height: 600px;
   align-items: center;
   flex-direction: row;
   overflow: hidden;
